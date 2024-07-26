@@ -425,7 +425,7 @@ public enum Localizable {
   public static var errorVpnSessionIsActive: String { return Localizable.tr("Localizable", "_error_vpn_session_is_active", fallback: "Proton VPN session is active") }
   /// Description of the expand/collapse button used by accessibility Voice Over
   public static var expandListOfServers: String { return Localizable.tr("Localizable", "_expand_list_of_servers", fallback: "Expand list of servers") }
-  /// MAC: is inserted into _free_trial_expired_title insteadof %@
+  /// MAC: is inserted into _free_trial_expired_title instead of %@
   public static var expired: String { return Localizable.tr("Localizable", "_expired", fallback: "EXPIRED") }
   /// iOS: Table header in settings screen
   public static var extensions: String { return Localizable.tr("Localizable", "_extensions", fallback: "Extensions") }
