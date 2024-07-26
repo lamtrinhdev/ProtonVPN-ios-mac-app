@@ -1416,7 +1416,7 @@ public enum Localizable {
   public static var tierVisionary: String { return Localizable.tr("Localizable", "_tier_visionary", fallback: "Visionary") }
   /// MacOS: shown when connection timed out and user has problematic setup involving ikev2 and kill switch on
   public static var timeoutKsIkeDescritpion: String { return Localizable.tr("Localizable", "_timeout_ks_ike_descritpion", fallback: "Another application might be interfering with kill switch. To fix this problem, switch to the OpenVPN protocol or disable kill switch and retry.") }
-  /// MacOS: button shown when connection timed out and user has problematic setup involving ikev2 and kill switch on. Don't make this text longer than in english.
+  /// MacOS: button shown when connection timed out and user has problematic setup involving ikev2 and kill switch on. Don't make this text longer than in English.
   public static var timeoutKsIkeSwitchProtocol: String { return Localizable.tr("Localizable", "_timeout_ks_ike_switch_protocol", fallback: "Switch to OpenVPN and retry") }
   /// iOS Settings -> Protocol -> WireGuard: TLS option
   public static var tls: String { return Localizable.tr("Localizable", "_tls", fallback: "TLS") }
