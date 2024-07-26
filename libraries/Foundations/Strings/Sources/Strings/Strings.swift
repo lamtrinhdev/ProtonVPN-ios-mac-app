@@ -749,23 +749,23 @@ public enum Localizable {
   public static var netshieldAlertReconnectDescriptionOn: String { return Localizable.tr("Localizable", "_netshield_alert_reconnect_description_on", fallback: "Your connection will be restarted to change the NetShield mode.\nNote: If some sites don't load, try disabling NetShield.") }
   /// NetShield increases your privacy by blocking advertisements and trackers.
   public static var netshieldAlertUpgradeDescription: String { return Localizable.tr("Localizable", "_netshield_alert_upgrade_description", fallback: "NetShield increases your privacy by blocking advertisements and trackers.") }
-  /// Settings -> Netshield, Status -> NetShield: Netshield Upsell cell subtitle
+  /// Settings -> NetShield, Status -> NetShield: NetShield Upsell cell subtitle
   public static var netshieldBusinessUpsellSubtitle: String { return Localizable.tr("Localizable", "_netshield_business_upsell_subtitle", fallback: "When you upgrade to VPN Business") }
-  /// Settings -> Netshield, Status -> NetShield: Netshield Upsell cell title
+  /// Settings -> NetShield, Status -> NetShield: NetShield Upsell cell title
   public static var netshieldBusinessUpsellTitle: String { return Localizable.tr("Localizable", "_netshield_business_upsell_title", fallback: "Block ads with NetShield") }
-  /// Settings -> Netshield, Status -> NetShield: Long description of the feature, displayed below netshield levels for premium users. Contains a link to https://protonvpn.com/support/netshield
+  /// Settings -> NetShield, Status -> NetShield: Long description of the feature, displayed below netshield levels for premium users. Contains a link to https://protonvpn.com/support/netshield
   public static var netshieldFeatureDescription: String { return Localizable.tr("Localizable", "_netshield_feature_description", fallback: "Protect yourself from ads, malware, and trackers on websites and apps. If websites don't load, try disabling NetShield.\nLearn more") }
   /// Link with more info in the NetShield Feature description
   public static var netshieldFeatureDescriptionAltLink: String { return Localizable.tr("Localizable", "_netshield_feature_description_alt_link", fallback: "Learn more") }
-  /// Settings -> Netshield: Block malware
+  /// Settings -> NetShield: Block malware
   public static var netshieldLevel1: String { return Localizable.tr("Localizable", "_netshield_level1", fallback: "Block malware") }
-  /// Settings -> Netshield: Block malware, ads, trackers
+  /// Settings -> NetShield: Block malware, ads, trackers
   public static var netshieldLevel2: String { return Localizable.tr("Localizable", "_netshield_level2", fallback: "Block malware, ads, & trackers") }
-  /// Settings -> Netshield, Status -> NetShield: Off
+  /// Settings -> NetShield, Status -> NetShield: Off
   public static var netshieldOff: String { return Localizable.tr("Localizable", "_netshield_off", fallback: "Off") }
-  /// Status -> Netshield: On
+  /// Status -> NetShield: On
   public static var netshieldOn: String { return Localizable.tr("Localizable", "_netshield_on", fallback: "On") }
-  /// Netshield section title in iOS connection screen
+  /// NetShield section title in iOS connection screen
   public static var netshieldSectionTitle: String { return Localizable.tr("Localizable", "_netshield_section_title", fallback: "Malware & Ads Blocker") }
   /// Plural format key: "%#@VARIABLE@"
   public static func netshieldStatsAdsBlocked(_ p1: Int) -> String {
