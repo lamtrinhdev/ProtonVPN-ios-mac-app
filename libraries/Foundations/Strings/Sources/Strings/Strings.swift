@@ -1362,7 +1362,7 @@ public enum Localizable {
   /// Thanks for upgrading to Business/Visionary
   public static var subuserAlertTitle: String { return Localizable.tr("Localizable", "_subuser_alert_title", fallback: "Thanks for upgrading to Business/Visionary") }
   /// MacOS: connecting overlay
-  public static var yConnected: String { return Localizable.tr("Localizable", "_y_connected", fallback: "y Connected") }
+  public static var successfullyConnected: String { return Localizable.tr("Localizable", "_successfully_connected", fallback: "Successfully Connected") }
   /// OFF
   public static var switchSideButtonOff: String { return Localizable.tr("Localizable", "_switch_side_button_off", fallback: "OFF") }
   /// ON
