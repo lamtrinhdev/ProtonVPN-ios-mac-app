@@ -1264,11 +1264,11 @@ public enum Localizable {
   public static var settingsTitleVpnAccelerator: String { return Localizable.tr("Localizable", "_settings_title_vpn_accelerator", fallback: "VPN Accelerator") }
   /// Title of the Widget cell in the Settings tab [Redesign_2023]
   public static var settingsTitleWidget: String { return Localizable.tr("Localizable", "_settings_title_widget", fallback: "Widget") }
-  /// iOS: title of the screen after successfull purchase
+  /// iOS: title of the screen after successful purchase
   public static var setupComplete: String { return Localizable.tr("Localizable", "_setup_complete", fallback: "Setup Complete") }
-  /// iOS: title of the screen after successfull purchase
+  /// iOS: title of the screen after successful purchase
   public static var setupCompleteFree: String { return Localizable.tr("Localizable", "_setup_complete_free", fallback: "You are now signed up for a Proton VPN Free plan. To get you started, enjoy seven days of our Proton VPN Plus plan for free.") }
-  /// iOS: title of the screen after successfull purchase
+  /// iOS: title of the screen after successful purchase
   public static var setupCompletePlus: String { return Localizable.tr("Localizable", "_setup_complete_plus", fallback: "Your purchase was successful. Your Proton VPN Plus plan is now active.") }
   /// Show/hide password switch
   public static var show: String { return Localizable.tr("Localizable", "_show", fallback: "SHOW") }
@@ -1362,7 +1362,7 @@ public enum Localizable {
   /// Thanks for upgrading to Business/Visionary
   public static var subuserAlertTitle: String { return Localizable.tr("Localizable", "_subuser_alert_title", fallback: "Thanks for upgrading to Business/Visionary") }
   /// MacOS: connecting overlay
-  public static var successfullyConnected: String { return Localizable.tr("Localizable", "_successfully_connected", fallback: "Successfully Connected") }
+  public static var yConnected: String { return Localizable.tr("Localizable", "_y_connected", fallback: "y Connected") }
   /// OFF
   public static var switchSideButtonOff: String { return Localizable.tr("Localizable", "_switch_side_button_off", fallback: "OFF") }
   /// ON
