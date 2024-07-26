@@ -600,8 +600,8 @@ public enum Localizable {
   public static var localAgentPolicyViolationErrorMessage: String { return Localizable.tr("Localizable", "_local_agent_policy_violation_error_message", fallback: "You are not allowed to connect to the server. Choose a different server or upgrade your plan.") }
   /// Policy violation
   public static var localAgentPolicyViolationErrorTitle: String { return Localizable.tr("Localizable", "_local_agent_policy_violation_error_title", fallback: "Policy violation") }
-  /// An error occured on the server. Please connect to another server.
-  public static var localAgentServerErrorMessage: String { return Localizable.tr("Localizable", "_local_agent_server_error_message", fallback: "An error occured on the server. Please connect to another server.") }
+  /// An error occurred on the server. Please connect to another server.
+  public static var localAgentServerErrorMessage: String { return Localizable.tr("Localizable", "_local_agent_server_error_message", fallback: "An error occurred on the server. Please connect to another server.") }
   /// Server error
   public static var localAgentServerErrorTitle: String { return Localizable.tr("Localizable", "_local_agent_server_error_title", fallback: "Server error") }
   /// iOS status view
