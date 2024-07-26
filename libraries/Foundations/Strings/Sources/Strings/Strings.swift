@@ -1749,11 +1749,11 @@ public enum Localizable {
   public static var modalsUpsellStayFree: String { return Localizable.tr("Localizable", "modals_upsell_stay_free", fallback: "Not now") }
   /// Title of the "What's new" screen
   public static var modalsWhatsNew: String { return Localizable.tr("Localizable", "modals_whats_new", fallback: "What’s new") }
-  /// The hint that appears on mac when user hovers with a mouse over the value of netshield stats - advertisements blocked
+  /// The hint that appears on mac when user hovers with a mouse over the value of NetShield stats - advertisements blocked
   public static var netshieldStatsHintAds: String { return Localizable.tr("Localizable", "netshield_stats_hint_ads", fallback: "Advertisement websites use cookies and trackers to target you.") }
-  /// The hint that appears on mac when user hovers with a mouse over the value of netshield stats - data saved
+  /// The hint that appears on mac when user hovers with a mouse over the value of NetShield stats - data saved
   public static var netshieldStatsHintData: String { return Localizable.tr("Localizable", "netshield_stats_hint_data", fallback: "Estimated size of ads, trackers, and malware that NetShield has blocked.") }
-  /// The hint that appears on mac when user hovers with a mouse over the value of netshield stats - trackers stopped
+  /// The hint that appears on mac when user hovers with a mouse over the value of NetShield stats - trackers stopped
   public static var netshieldStatsHintTrackers: String { return Localizable.tr("Localizable", "netshield_stats_hint_trackers", fallback: "Trackers are third-party websites that collect, store, and sell information about your web activity.") }
   /// Title of "done" button in New Brand screen
   public static var newPlansBrandGotIt: String { return Localizable.tr("Localizable", "new_plans_brand_got_it", fallback: "Got it") }
