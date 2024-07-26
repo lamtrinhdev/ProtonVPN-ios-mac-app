@@ -416,7 +416,7 @@ public enum Localizable {
   /// Human validation failed
   public static var errorUserFailedHumanValidation: String { return Localizable.tr("Localizable", "_error_user_failed_human_validation", fallback: "We have not been able to verify that you are human. Please try again or purchase a premium plan.") }
   /// Error when try to parse verification methods
-  public static var errorVerificationMethodsParser: String { return Localizable.tr("Localizable", "_error_verification_methods_parser", fallback: "Can't parse verfication methods") }
+  public static var errorVerificationMethodsParser: String { return Localizable.tr("Localizable", "_error_verification_methods_parser", fallback: "Can't parse verification methods") }
   /// VPN credentials can't be loaded error
   public static var errorVpnCredentialsMissing: String { return Localizable.tr("Localizable", "_error_vpn_credentials_missing", fallback: "VPN credentials are missing from the keychain") }
   /// Default error when vpn properties fetch failed
