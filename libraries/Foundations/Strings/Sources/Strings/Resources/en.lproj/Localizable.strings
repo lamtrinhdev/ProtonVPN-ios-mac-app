@@ -781,7 +781,7 @@
 "_error_subscription_parser" = "Can't parse subscription info";
 
 /* Error when try to parse verification methods */
-"_error_verification_methods_parser" = "Can't parse verfication methods";
+"_error_verification_methods_parser" = "Can't parse verification methods";
 
 /* Keychain error */
 "_error_keychain_fetch" = "Keychain error.";
@@ -1537,7 +1537,7 @@
 // MARK: Local agent
 
 "_local_agent_server_error_title" = "Server error";
-"_local_agent_server_error_message" = "An error occured on the server. Please connect to another server.";
+"_local_agent_server_error_message" = "An error occurred on the server. Please connect to another server.";
 
 "_local_agent_policy_violation_error_title" = "Policy violation";
 "_local_agent_policy_violation_error_message" = "You are not allowed to connect to the server. Choose a different server or upgrade your plan.";
